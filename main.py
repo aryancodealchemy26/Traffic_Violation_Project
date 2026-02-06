@@ -2,7 +2,7 @@
 
 # # Load YOLOv8 nano model (fast & lightweight)
 # model = YOLO("yolov8n.pt")
-
+# hello
 # # Run detection on video
 # model("traffic.mp4", show=True)
 from ultralytics import YOLO
